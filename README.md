@@ -3,7 +3,7 @@
 
 Minimal docker image with [Squid] that only proxies authenticated requests and (optionally) only to certain domains.
 
-Forked from: https://github.com/dafinley/squid-proxy-basic-auth
+Forked from: https://github.com/anisgandoura/squid-proxy-basic-auth
 
 ## Prerequisites
 
